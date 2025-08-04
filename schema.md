@@ -50,7 +50,7 @@ Displays a list of items, such as work experience, projects, publications, etc.
 
 #### 2. **Text Section**
 
-Displays a block of plain textn.
+Displays a block of plain text.
 
 ```json
 {
